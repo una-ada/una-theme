@@ -3,7 +3,7 @@
     "displayName": "theme",
     "description": "Una's VS Code color theme ^ ^",
     "publisher": "una",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "repository": {
       "type": "git",
       "url": "https://github.com/una-ada/una-theme"
