@@ -2,6 +2,7 @@
     "name": "theme",
     "displayName": "theme",
     "description": "Una's VS Code color theme ^ ^",
+    "publisher": "una",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.57.0"
