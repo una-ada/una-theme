@@ -1,0 +1,67 @@
+{
+  "hidesExplorerArrows": true,
+  "rootFolder": "folder",
+  "rootFolderExpanded": "folder_expanded",
+  "folder": "folder",
+  "folderExpanded": "folder_expanded",
+  "folderNames": {
+    ".vscode": "vscode"
+  },
+  "file": "file",
+  "fileNames": {
+    "readme.md": "readme",
+    ".gitignore": "file_git"
+  },
+  "fileExtensions": {
+    "bmp": "img",
+    "gif": "img",
+    "ico": "img",
+    "jpeg": "img",
+    "jpg": "img",
+    "png": "img",
+    "svg": "img",
+    "webp": "img"
+  },
+  "languageIds": {
+    "css": "json",
+    "html": "html",
+    "javascript": "js",
+    "json": "json",
+    "markdown": "md"
+  },
+  "iconDefinitions": {
+    "folder": {
+      "iconPath": "./img/folder.png"
+    },
+    "folder_expanded": {
+      "iconPath": "./img/folder_open.png"
+    },
+    "file": {
+      "iconPath": "./img/file.png"
+    },
+    "file_git": {
+      "iconPath": "./img/file_git.png"
+    },
+    "html": {
+      "iconPath": "./img/file_html.png"
+    },
+    "img": {
+      "iconPath": "./img/file_img.png"
+    },
+    "js": {
+      "iconPath": "./img/file_js.png"
+    },
+    "json": {
+      "iconPath": "./img/file_json.png"
+    },
+    "md": {
+      "iconPath": "./img/file_md.png"
+    },
+    "python": {
+      "iconPath": "./img/file_py.png"
+    },
+    "readme": {
+      "iconPath": "./img/file_readme.png"
+    }
+  }
+}

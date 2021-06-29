@@ -1,29 +1,36 @@
 {
-    "name": "theme",
-    "displayName": "theme",
-    "description": "Una's VS Code color theme ^ ^",
-    "publisher": "una",
-    "version": "1.0.0",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/una-ada/una-theme"
-    },
-    "scripts": {
-      "publish": "vsce publish"
-    },
-    "engines": {
-        "vscode": "^1.57.0"
-    },
-    "categories": [
-        "Themes"
+  "name": "theme",
+  "displayName": "theme",
+  "description": "Una's colors and icons themes!",
+  "publisher": "una",
+  "version": "1.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/una-ada/una-theme"
+  },
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Una's Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/una-color-theme.json"
+      }
     ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Una's Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/una-color-theme.json"
-            }
-        ]
-    }
+    "iconThemes": [
+      {
+        "id": "una-icons",
+        "label": "Una Icons",
+        "path": "./icons/una-icon-theme.json"
+      }
+    ]
+  }
 }
