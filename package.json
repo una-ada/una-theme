@@ -4,6 +4,13 @@
     "description": "Una's VS Code color theme ^ ^",
     "publisher": "una",
     "version": "0.0.1",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/una-ada/una-theme"
+    },
+    "scripts": {
+      "publish": "vsce publish"
+    },
     "engines": {
         "vscode": "^1.57.0"
     },
