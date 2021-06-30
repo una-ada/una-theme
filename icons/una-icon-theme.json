@@ -27,9 +27,11 @@
     "haskell": "hs",
     "html": "html",
     "javascript": "js",
+    "javascriptreact": "js",
     "json": "json",
     "markdown": "md",
-    "php": "php"
+    "php": "php",
+    "ruby": "ruby"
   },
   "iconDefinitions": {
     "folder": {
@@ -70,6 +72,9 @@
     },
     "readme": {
       "iconPath": "./img/file_readme.png"
+    },
+    "ruby": {
+      "iconPath": "./img/file_ruby.png"
     }
   }
 }
