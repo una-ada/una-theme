@@ -31,7 +31,9 @@
     "json": "json",
     "markdown": "md",
     "php": "php",
-    "ruby": "ruby"
+    "python": "python",
+    "ruby": "ruby",
+    "typescriptreact": "ts"
   },
   "iconDefinitions": {
     "folder": {
@@ -75,6 +77,9 @@
     },
     "ruby": {
       "iconPath": "./img/file_ruby.png"
+    },
+    "ts": {
+      "iconPath": "./img/file_ts.png"
     }
   }
 }
