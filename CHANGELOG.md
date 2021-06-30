@@ -1,9 +1,15 @@
 # Change Log
 
-All notable changes to the "theme" extension will be documented in this file.
+All notable changes to the "una.theme" extension will be documented in this 
+file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.1.0
 
-## [Unreleased]
+- Initial icons theme addition, covers the following languages:
+  C, C++, CSharp, CSS, Git, Haskell, HTML, JavaScript, JSON, Markdown, PHP, 
+  Python, Ruby, and TypeScript.
+
+## 1.0.0
 
 - Initial release
+- Adds initial configuration for colors
