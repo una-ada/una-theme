@@ -24,6 +24,7 @@
   },
   "languageIds": {
     "css": "json",
+    "haskell": "hs",
     "html": "html",
     "javascript": "js",
     "json": "json",
@@ -41,6 +42,9 @@
     },
     "file_git": {
       "iconPath": "./img/file_git.png"
+    },
+    "hs": {
+      "iconPath": "./img/file_hs.png"
     },
     "html": {
       "iconPath": "./img/file_html.png"
