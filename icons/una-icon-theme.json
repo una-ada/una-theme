@@ -28,6 +28,7 @@
   },
   "languageIds": {
     "c": "c",
+    "cpp": "cpp",
     "css": "json",
     "haskell": "hs",
     "html": "html",
@@ -62,6 +63,9 @@
     },
     "config": {
       "iconPath": "./img/file_config.png"
+    },
+    "cpp": {
+      "iconPath": "./img/file_cpp.png"
     },
     "hs": {
       "iconPath": "./img/file_hs.png"
