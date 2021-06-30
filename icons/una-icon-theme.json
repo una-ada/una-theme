@@ -27,6 +27,7 @@
     "webp": "img"
   },
   "languageIds": {
+    "c": "c",
     "css": "json",
     "haskell": "hs",
     "html": "html",
@@ -55,6 +56,9 @@
     },
     "file_git": {
       "iconPath": "./img/file_git.png"
+    },
+    "c": {
+      "iconPath": "./img/file_c.png"
     },
     "config": {
       "iconPath": "./img/file_config.png"
