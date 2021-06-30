@@ -5,12 +5,16 @@
   "folder": "folder",
   "folderExpanded": "folder_expanded",
   "folderNames": {
+    "node_modules": "folder_npm",
     ".vscode": "vscode"
   },
   "file": "file",
   "fileNames": {
-    "readme.md": "readme",
-    ".gitignore": "file_git"
+    ".gitignore": "file_git",
+    "gemfile.lock": "ruby_gray",
+    "package.json": "npm",
+    "package-lock.json": "npm_gray",
+    "readme.md": "readme"
   },
   "fileExtensions": {
     "bmp": "img",
@@ -42,6 +46,9 @@
     "folder_expanded": {
       "iconPath": "./img/folder_open.png"
     },
+    "folder_npm": {
+      "iconPath": "./img/folder_npm.png"
+    },
     "file": {
       "iconPath": "./img/file.png"
     },
@@ -66,6 +73,12 @@
     "md": {
       "iconPath": "./img/file_md.png"
     },
+    "npm": {
+      "iconPath": "./img/file_npm.png"
+    },
+    "npm_gray": {
+      "iconPath": "./img/file_npm_gray.png"
+    },
     "php" :{
       "iconPath": "./img/file_php.png"
     },
@@ -78,8 +91,14 @@
     "ruby": {
       "iconPath": "./img/file_ruby.png"
     },
+    "ruby_gray": {
+      "iconPath": "./img/file_ruby_gray.png"
+    },
     "ts": {
       "iconPath": "./img/file_ts.png"
+    },
+    "vscode": {
+      "iconPath": "./img/folder_vs.png"
     }
   }
 }
