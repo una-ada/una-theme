@@ -35,6 +35,7 @@
     "json": "json",
     "markdown": "md",
     "php": "php",
+    "properties": "config",
     "python": "python",
     "ruby": "ruby",
     "typescriptreact": "ts"
@@ -54,6 +55,9 @@
     },
     "file_git": {
       "iconPath": "./img/file_git.png"
+    },
+    "config": {
+      "iconPath": "./img/file_config.png"
     },
     "hs": {
       "iconPath": "./img/file_hs.png"
