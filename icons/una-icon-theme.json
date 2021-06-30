@@ -28,7 +28,8 @@
     "html": "html",
     "javascript": "js",
     "json": "json",
-    "markdown": "md"
+    "markdown": "md",
+    "php": "php"
   },
   "iconDefinitions": {
     "folder": {
@@ -60,6 +61,9 @@
     },
     "md": {
       "iconPath": "./img/file_md.png"
+    },
+    "php" :{
+      "iconPath": "./img/file_php.png"
     },
     "python": {
       "iconPath": "./img/file_py.png"
