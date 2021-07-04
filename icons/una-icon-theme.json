@@ -41,6 +41,7 @@
     "properties": "config",
     "python": "python",
     "ruby": "ruby",
+    "scss": "sass",
     "typescriptreact": "ts"
   },
   "iconDefinitions": {
@@ -109,6 +110,9 @@
     },
     "ruby_gray": {
       "iconPath": "./img/file_ruby_gray.png"
+    },
+    "sass": {
+      "iconPath": "./img/file_sass.png"
     },
     "ts": {
       "iconPath": "./img/file_ts.png"
