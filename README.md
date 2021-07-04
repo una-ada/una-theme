@@ -16,12 +16,12 @@ to do for now! Apologies for any inconvenience.
 
 |  Name |    Hex    |    Sample    |
 | ----: | :-------: | :----------: |
+| Black | `#222222` | ![Black][7]  |
 | Lotus | `#e0c1bf` | ![Lotus][2]  |
 | Baked | `#d68067` | ![Baked][3]  |
 | Reeds | `#dccca1` | ![Reeds][4]  |
 | Olive | `#2e2d1c` | ![Olive][5]  |
 | Chive | `#555f47` | ![Chive][6]  |
-| Black | `#0a2619` | ![Black][7]  |
 | Foamy | `#729a89` | ![Foamy][8]  |
 | Coral | `#145c62` | ![Coral][9]  |
 | Royal | `#0e2d31` | ![Royal][10] |
@@ -35,7 +35,7 @@ to do for now! Apologies for any inconvenience.
 [4]: https://via.placeholder.com/144x14/dccca1?text=+
 [5]: https://via.placeholder.com/144x14/2e2d1c?text=+
 [6]: https://via.placeholder.com/144x14/555f47?text=+
-[7]: https://via.placeholder.com/144x14/0a2619?text=+
+[7]: https://via.placeholder.com/144x14/222222?text=+
 [8]: https://via.placeholder.com/144x14/729a89?text=+
 [9]: https://via.placeholder.com/144x14/145c62?text=+
 [10]: https://via.placeholder.com/144x14/0e2d31?text=+

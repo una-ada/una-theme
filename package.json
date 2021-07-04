@@ -1,9 +1,9 @@
 {
   "name": "theme",
-  "displayName": "theme",
+  "displayName": "Una's Theme",
   "description": "Una's colors and icons themes!",
   "publisher": "una",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/una-ada/una-theme"
@@ -28,7 +28,7 @@
     "iconThemes": [
       {
         "id": "una-icons",
-        "label": "Una Icons",
+        "label": "Una's Icons",
         "path": "./icons/una-icon-theme.json"
       }
     ]
