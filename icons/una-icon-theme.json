@@ -33,6 +33,7 @@
     "css": "json",
     "haskell": "hs",
     "html": "html",
+    "jade": "pug",
     "java": "java",
     "javascript": "js",
     "javascriptreact": "js",
@@ -40,6 +41,7 @@
     "markdown": "md",
     "php": "php",
     "properties": "config",
+    "pug": "pug",
     "python": "python",
     "ruby": "ruby",
     "scss": "sass",
@@ -102,6 +104,9 @@
     },
     "php" :{
       "iconPath": "./img/file_php.png"
+    },
+    "pug": {
+      "iconPath": "./img/file_pug.png"
     },
     "python": {
       "iconPath": "./img/file_py.png"
