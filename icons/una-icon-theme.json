@@ -46,6 +46,7 @@
     "ruby": "ruby",
     "scss": "sass",
     "typescriptreact": "ts",
+    "vue": "vue",
     "yaml": "yml"
   },
   "iconDefinitions": {
@@ -129,6 +130,9 @@
     },
     "vscode": {
       "iconPath": "./img/folder_vs.png"
+    },
+    "vue": {
+      "iconPath": "./img/file_vue.png"
     },
     "yml": {
       "iconPath": "./img/file_yml.png"
