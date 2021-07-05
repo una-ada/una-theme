@@ -10,8 +10,11 @@
   },
   "file": "file",
   "fileNames": {
+    "cname": "config",
+    ".env": "config",
     ".gitignore": "file_git",
     "gemfile.lock": "ruby_gray",
+    "license": "readme",
     "package.json": "npm",
     "package-lock.json": "npm_gray",
     "readme.md": "readme"
