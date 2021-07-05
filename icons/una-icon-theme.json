@@ -45,7 +45,8 @@
     "python": "python",
     "ruby": "ruby",
     "scss": "sass",
-    "typescriptreact": "ts"
+    "typescriptreact": "ts",
+    "yaml": "yml"
   },
   "iconDefinitions": {
     "folder": {
@@ -128,6 +129,9 @@
     },
     "vscode": {
       "iconPath": "./img/folder_vs.png"
+    },
+    "yml": {
+      "iconPath": "./img/file_yml.png"
     }
   }
 }
