@@ -14,31 +14,19 @@ to do for now! Apologies for any inconvenience.
 
 ## Palette
 
-|  Name |    Hex    |    Sample    |
-| ----: | :-------: | :----------: |
-| Black | `#222222` | ![Black][7]  |
-| Lotus | `#e0c1bf` | ![Lotus][2]  |
-| Baked | `#d68067` | ![Baked][3]  |
-| Reeds | `#dccca1` | ![Reeds][4]  |
-| Olive | `#2e2d1c` | ![Olive][5]  |
-| Chive | `#555f47` | ![Chive][6]  |
-| Foamy | `#729a89` | ![Foamy][8]  |
-| Coral | `#145c62` | ![Coral][9]  |
-| Royal | `#0e2d31` | ![Royal][10] |
-| Berry | `#2a2858` | ![Berry][11] |
-| Candy | `#de2136` | ![Candy][12] |
-| Wines | `#703d41` | ![Wines][13] |
+|  Name |    Hex    |            Sample            |
+| ----: | :-------: | :--------------------------: |
+| Black | `#222222` | ![Black](/assets/222222.png) |
+| Lotus | `#e0c1bf` | ![Lotus](/assets/e0c1bf.png) |
+| Baked | `#d68067` | ![Baked](/assets/d68067.png) |
+| Reeds | `#dccca1` | ![Reeds](/assets/dccca1.png) |
+| Olive | `#2e2d1c` | ![Olive](/assets/2e2d1c.png) |
+| Chive | `#555f47` | ![Chive](/assets/555f47.png) |
+| Foamy | `#729a89` | ![Foamy](/assets/729a89.png) |
+| Coral | `#145c62` | ![Coral](/assets/145c62.png) |
+| Royal | `#0e2d31` | ![Royal](/assets/0e2d31.png) |
+| Berry | `#2a2858` | ![Berry](/assets/2a2858.png) |
+| Candy | `#de2136` | ![Candy](/assets/de2136.png) |
+| Wines | `#703d41` | ![Wines](/assets/703d41.png) |
 
 [1]: https://gist.github.com/una-ada/72d6ac62de0358112e41044dbf42702a
-[2]: https://via.placeholder.com/144x14/e0c1bf?text=+
-[3]: https://via.placeholder.com/144x14/d68067?text=+
-[4]: https://via.placeholder.com/144x14/dccca1?text=+
-[5]: https://via.placeholder.com/144x14/2e2d1c?text=+
-[6]: https://via.placeholder.com/144x14/555f47?text=+
-[7]: https://via.placeholder.com/144x14/222222?text=+
-[8]: https://via.placeholder.com/144x14/729a89?text=+
-[9]: https://via.placeholder.com/144x14/145c62?text=+
-[10]: https://via.placeholder.com/144x14/0e2d31?text=+
-[11]: https://via.placeholder.com/144x14/2a2858?text=+
-[12]: https://via.placeholder.com/144x14/de2136?text=+
-[13]: https://via.placeholder.com/144x14/703d41?text=+
