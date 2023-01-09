@@ -115,7 +115,8 @@
     "welcomePage.tileBackground": "#161718",
     "welcomePage.tileHoverBackground": "#0e2d31",
     "settings.headerForeground": "#a2c9cb",
-    "settings.modifiedItemIndicator": "#a2c9cb"
+    "settings.modifiedItemIndicator": "#a2c9cb",
+    "breadcrumb.foreground": "#e0c1bf"
   },
   "tokenColors": [
     {

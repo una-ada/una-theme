@@ -3,7 +3,12 @@
   "displayName": "Una's Theme",
   "description": "Una's colors and icons themes!",
   "publisher": "una",
-  "version": "1.1.1",
+  "version": "2.0.0",
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "729a89",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/una-ada/una-theme"
