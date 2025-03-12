@@ -3,6 +3,15 @@
 All notable changes to the "una.theme" extension will be documented in this 
 file.
 
+## 2.1.0
+
+- Replaces icons/icons with icons/una-theme-icons submodule
+- Adds more file icons for the following languages: Actionscript, Bash, 
+  Clojure, Crystal, Cuneiform, Dart, EJS, Elixir, Erlang, Fish, FSharp, 
+  Golfscript, Groovy, Hamler, Haxe, Inform, Inform7, J, Joxa, Julua, K, Kotlin, 
+  Liquid, Lua, MJML, OCaml, Perl, Powershell, R, Raku, Rust, Scala, Smalltalk, 
+  and Swift.
+
 ## 2.0.0
 
 - Adds colors for text elements (general, links, block quotes, &c.)

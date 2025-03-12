@@ -1,0 +1,3 @@
+[submodule "icons/una-theme-icons"]
+	path = icons/una-theme-icons
+	url = https://github.com/una-ada/una-theme-icons
