@@ -1,4 +1,6 @@
 .vscode/**
 .vscode-test/**
 .gitignore
+icons/una-theme-icons/.gitignore
+icons/una-theme-icons/*.json
 assets/**
