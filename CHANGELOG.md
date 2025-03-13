@@ -3,6 +3,10 @@
 All notable changes to the "una.theme" extension will be documented in this 
 file.
 
+## 2.1.1
+
+- Adds 2px padding around icons for pixel perfect rendering
+
 ## 2.1.0
 
 - Replaces icons/icons with icons/una-theme-icons submodule

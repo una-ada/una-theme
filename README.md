@@ -2,16 +2,6 @@
 
 _Work in progress!_
 
-## Icons
-
-The file icon theme contains 12x12 .PNG files; this means that, by default, VS
-Code will stretch the images to fit its 16x16 area for file icons. To remedy
-this, please refer to [this gist][1].
-
-I do intend to eventually update the icons to SVGs, and to handle the scaling
-different. However, since this is a highly personalized project, this will have
-to do for now! Apologies for any inconvenience.
-
 ## Palette
 
 |  Name |    Hex    |            Sample            |
