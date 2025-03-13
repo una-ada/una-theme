@@ -89,196 +89,196 @@
   },
   "iconDefinitions": {
     "dist_npm": {
-      "iconPath": "./una-theme-icons/12px/dist/npm.png"
+      "iconPath": "./una-theme-icons/12+4px/dist/npm.png"
     },
     "dist_npm_gray": {
-      "iconPath": "./una-theme-icons/12px/dist/npm_gray.png"
+      "iconPath": "./una-theme-icons/12+4px/dist/npm_gray.png"
     },
     "soft_git": {
-      "iconPath": "./una-theme-icons/12px/soft/git.png"
+      "iconPath": "./una-theme-icons/12+4px/soft/git.png"
     },
     "type_folder": {
-      "iconPath": "./una-theme-icons/12px/type/folder.png"
+      "iconPath": "./una-theme-icons/12+4px/type/folder.png"
     },
     "type_folder_expanded": {
-      "iconPath": "./una-theme-icons/12px/type/folder_open.png"
+      "iconPath": "./una-theme-icons/12+4px/type/folder_open.png"
     },
     "type_folder_npm": {
-      "iconPath": "./una-theme-icons/12px/type/folder_npm.png"
+      "iconPath": "./una-theme-icons/12+4px/type/folder_npm.png"
     },
     "type_folder_vscode": {
-      "iconPath": "./una-theme-icons/12px/type/folder_vs.png"
+      "iconPath": "./una-theme-icons/12+4px/type/folder_vs.png"
     },
     "type_file": {
-      "iconPath": "./una-theme-icons/12px/type/file.png"
+      "iconPath": "./una-theme-icons/12+4px/type/file.png"
     },
     "type_image": {
-      "iconPath": "./una-theme-icons/12px/type/image.png"
+      "iconPath": "./una-theme-icons/12+4px/type/image.png"
     },
     "type_writing": {
-      "iconPath": "./una-theme-icons/12px/type/writing.png"
+      "iconPath": "./una-theme-icons/12+4px/type/writing.png"
     },
     "lang_actionscript": {
-      "iconPath": "./una-theme-icons/12px/lang/actionscript.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/actionscript.png"
     },
     "lang_bash": {
-      "iconPath": "./una-theme-icons/12px/lang/bash.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/bash.png"
     },
     "lang_c": {
-      "iconPath": "./una-theme-icons/12px/lang/c.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/c.png"
     },
     "lang_clojure": {
-      "iconPath": "./una-theme-icons/12px/lang/clojure.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/clojure.png"
     },
     "lang_config": {
-      "iconPath": "./una-theme-icons/12px/lang/config.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/config.png"
     },
     "lang_cpp": {
-      "iconPath": "./una-theme-icons/12px/lang/cpp.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/cpp.png"
     },
     "lang_crystal": {
-      "iconPath": "./una-theme-icons/12px/lang/crystal.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/crystal.png"
     },
     "lang_cs": {
-      "iconPath": "./una-theme-icons/12px/lang/cs.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/cs.png"
     },
     "lang_cuneiform": {
-      "iconPath": "./una-theme-icons/12px/lang/cuneiform.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/cuneiform.png"
     },
     "lang_dart": {
-      "iconPath": "./una-theme-icons/12px/lang/dart.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/dart.png"
     },
     "lang_ejs": {
-      "iconPath": "./una-theme-icons/12px/lang/ejs-2.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/ejs-2.png"
     },
     "lang_elixir": {
-      "iconPath": "./una-theme-icons/12px/lang/elixir.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/elixir.png"
     },
     "lang_erlang": {
-      "iconPath": "./una-theme-icons/12px/lang/erlang.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/erlang.png"
     },
     "lang_fish": {
-      "iconPath": "./una-theme-icons/12px/lang/fish.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/fish.png"
     },
     "lang_fs": {
-      "iconPath": "./una-theme-icons/12px/lang/fs.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/fs.png"
     },
     "lang_golfscript": {
-      "iconPath": "./una-theme-icons/12px/lang/golfscript.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/golfscript.png"
     },
     "lang_groovy": {
-      "iconPath": "./una-theme-icons/12px/lang/groovy.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/groovy.png"
     },
     "lang_hamler": {
-      "iconPath": "./una-theme-icons/12px/lang/hamler.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/hamler.png"
     },
     "lang_haxe": {
-      "iconPath": "./una-theme-icons/12px/lang/haxe.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/haxe.png"
     },
     "lang_hbs": {
-      "iconPath": "./una-theme-icons/12px/lang/hbs.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/hbs.png"
     },
     "lang_hs": {
-      "iconPath": "./una-theme-icons/12px/lang/hs.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/hs.png"
     },
     "lang_html": {
-      "iconPath": "./una-theme-icons/12px/lang/html.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/html.png"
     },
     "lang_inform": {
-      "iconPath": "./una-theme-icons/12px/lang/inform.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/inform.png"
     },
     "lang_inform7": {
-      "iconPath": "./una-theme-icons/12px/lang/inform7.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/inform7.png"
     },
     "lang_j": {
-      "iconPath": "./una-theme-icons/12px/lang/j.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/j.png"
     },
     "lang_java": {
-      "iconPath": "./una-theme-icons/12px/lang/java.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/java.png"
     },
     "lang_joxa": {
-      "iconPath": "./una-theme-icons/12px/lang/joxa.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/joxa.png"
     },
     "lang_js": {
-      "iconPath": "./una-theme-icons/12px/lang/js.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/js.png"
     },
     "lang_json": {
-      "iconPath": "./una-theme-icons/12px/lang/json.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/json.png"
     },
     "lang_julia": {
-      "iconPath": "./una-theme-icons/12px/lang_julia.png"
+      "iconPath": "./una-theme-icons/12+4px/lang_julia.png"
     },
     "lang_k": {
-      "iconPath": "./una-theme-icons/12px/lang/k.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/k.png"
     },
     "lang_kotlin": {
-      "iconPath": "./una-theme-icons/12px/lang/kotlin.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/kotlin.png"
     },
     "lang_liquid": {
-      "iconPath": "./una-theme-icons/12px/lang/liquid.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/liquid.png"
     },
     "lang_lua": {
-      "iconPath": "./una-theme-icons/12px/lang/lua.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/lua.png"
     },
     "lang_md": {
-      "iconPath": "./una-theme-icons/12px/lang/md.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/md.png"
     },
     "lang_mjml": {
-      "iconPath": "./una-theme-icons/12px/lang/mjml.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/mjml.png"
     },
     "lang_ocaml": {
-      "iconPath": "./una-theme-icons/12px/lang/ocaml.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/ocaml.png"
     },
     "lang_perl": {
-      "iconPath": "./una-theme-icons/12px/lang/perl.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/perl.png"
     },
     "lang_php": {
-      "iconPath": "./una-theme-icons/12px/lang/php.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/php.png"
     },
     "lang_powershell": {
-      "iconPath": "./una-theme-icons/12px/lang/powershell.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/powershell.png"
     },
     "lang_pug": {
-      "iconPath": "./una-theme-icons/12px/lang/pug.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/pug.png"
     },
     "lang_python": {
-      "iconPath": "./una-theme-icons/12px/lang/py.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/py.png"
     },
     "lang_r": {
-      "iconPath": "./una-theme-icons/12px/lang/r.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/r.png"
     },
     "lang_raku": {
-      "iconPath": "./una-theme-icons/12px/lang/raku.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/raku.png"
     },
     "lang_ruby": {
-      "iconPath": "./una-theme-icons/12px/lang/ruby.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/ruby.png"
     },
     "lang_ruby_gray": {
-      "iconPath": "./una-theme-icons/12px/lang/ruby_gray.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/ruby_gray.png"
     },
     "lang_rust": {
-      "iconPath": "./una-theme-icons/12px/lang/rust.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/rust.png"
     },
     "lang_sass": {
-      "iconPath": "./una-theme-icons/12px/lang/sass.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/sass.png"
     },
     "lang_scala": {
-      "iconPath": "./una-theme-icons/12px/lang/scala.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/scala.png"
     },
     "lang_smalltalk": {
-      "iconPath": "./una-theme-icons/12px/lang/smalltalk.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/smalltalk.png"
     },
     "lang_swift": {
-      "iconPath": "./una-theme-icons/12px/lang/swift.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/swift.png"
     },
     "lang_ts": {
-      "iconPath": "./una-theme-icons/12px/lang/ts.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/ts.png"
     },
     "lang_yml": {
-      "iconPath": "./una-theme-icons/12px/lang/yml.png"
+      "iconPath": "./una-theme-icons/12+4px/lang/yml.png"
     },
     "lib_vue": {
-      "iconPath": "./una-theme-icons/12px/lib/vue.png"
+      "iconPath": "./una-theme-icons/12+4px/lib/vue.png"
     }
   }
 }
